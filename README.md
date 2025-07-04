@@ -1,4 +1,3 @@
-# sumramkaur
 <!-- Sumram Kaur - Professional GitHub Profile README -->
 
 <h1 align="center">Hi there, I'm <span style="color:#3B3D40;">Sumram Kaur</span> 👋</h1>
